@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT BANANACLOCK</key>
+	<string>关于笨闹闹</string>
+	<key>ADD FRIEND</key>
+	<string>添加好友</string>
+	<key>NOTIFICATION</key>
+	<string>通知</string>
+	<key>GENERAL</key>
+	<string>通用</string>
+	<key>BLACK LIST</key>
+	<string>黑名单</string>
+	<key>PROFILE</key>
+	<string>个人信息</string>
+	<key>FRIEND‘s PROFILE</key>
+	<string>好友信息</string>
+	<key>PASSWORD</key>
+	<string>修改密码</string>
+	<key>FRIENDS TOP</key>
+	<string>好友排行榜</string>
+	<key>FRIENDS LIST</key>
+	<string>好友列表</string>
+	<key>QR CODE CARD</key>
+	<string>二维码名片</string>
+	<key>MY ACCOUNTS</key>
+	<string>账号绑定</string>
+	<key>SINA BINDING</key>
+	<string>新浪微博绑定</string>
+	<key>EMAIL MODIFICATION</key>
+	<string>邮箱更改</string>
+	<key>PHONE BINDING</key>
+	<string>手机号绑定</string>
+	<key>SINA</key>
+	<string>新浪微博</string>
+	<key>REMOVE BLACKLIST</key>
+	<string>从黑名单中移除</string>
+	<key>SHOP</key>
+	<string>商店</string>
+	<key>CALL</key>
+	<string>叫醒好友</string>
+	<key>SHARE SINA</key>
+	<string>新浪微博分享</string>
+	<key>SHARE RENREN</key>
+	<string>人人网分享</string>
+	<key>PHONE BOOK</key>
+	<string>通讯录</string>
+	<key>MY PROPS</key>
+	<string>我的道具</string>
+	<key>PROPS DETAIL</key>
+	<string>道具信息</string>
+	<key>PROPS SHOP</key>
+	<string>道具店</string>
+	<key>LANGUAGE</key>
+	<string>语言选择</string>
+	<key>WEEKDAY SETTING</key>
+	<string>重复设置</string>
+	<key>SETTING</key>
+	<string>设置</string>
+	<key>RECENT WAKE FRIENDS</key>
+	<string>最近叫醒好友</string>
+	<key>TIME SETTING</key>
+	<string>设置闹闹</string>
+	<key>WEAKUP FRIEND</key>
+	<string>叫醒好友</string>
+	<key>INFORMATION SETTING</key>
+	<string>修改信息</string>
+	<key>Please enter ID</key>
+	<string>请输入ID</string>
+	<key>Sina Weibo</key>
+	<string>新浪微博</string>
+	<key>QR Code</key>
+	<string>二维码扫描</string>
+	<key>Phone Book</key>
+	<string>通讯录</string>
+	<key>Available</key>
+	<string>可被叫</string>
+	<key>Being Called</key>
+	<string>起床中</string>
+	<key>Awaked</key>
+	<string>已起床</string>
+	<key>请输入用户ID</key>
+	<string>请输入用户ID</string>
+	<key>WEEK:</key>
+	<string>WEEK:</string>
+	<key>ONE</key>
+	<string>一</string>
+	<key>POPAnAchievementText</key>
+	<string>POPAnAchievementTextnew</string>
+	<key>POPDoYouWantToDeleteFriendText</key>
+	<string>POPDoYouWantToDeleteFriendTextnew</string>
+	<key>POPFriendsAddRequestText</key>
+	<string>POPFriendsAddRequestText</string>
+	<key>POPFriendsAddedSuccessfullyText</key>
+	<string>POPFriendsAddedSuccessfullyText</string>
+	<key>gameExitText</key>
+	<string>gameExitTextnew</string>
+	<key>gameOverRepeata</key>
+	<string>gameOverRepeata</string>
+	<key>gameOverRepeatb</key>
+	<string>gameOverRepeatb</string>
+	<key>gameSuccessText</key>
+	<string>gameSuccessTextnew</string>
+	<key>POPGetAMedalText</key>
+	<string>POPGetAMedalText</string>
+	<key>POPSlob</key>
+	<string>POPSlob</string>
+	<key>POPHeHasToGetUpText</key>
+	<string>POPHeHasToGetUpText</string>
+	<key>POPHeUsedTheShieldText</key>
+	<string>POPHeUsedTheShieldText</string>
+	<key>POPRequestHasBeenSentText</key>
+	<string>POPRequestHasBeenSentText</string>
+	<key>theInvitationHasBeenSentText</key>
+	<string>theInvitationHasBeenSentText</string>
+	<key>PanleGameText03</key>
+	<string>PanleGameText03new</string>
+	<key>PanleGameText05</key>
+	<string>PanleGameText05new</string>
+	<key>POPBlacklistButtona</key>
+	<string>POPBlacklistButtona</string>
+	<key>POPBlacklistButtonb</key>
+	<string>POPBlacklistButtonb</string>
+	<key>POPDidNotGetTheAchievement</key>
+	<string>POPDidNotGetTheAchievement</string>
+	<key>POPDidNotGetTheMedal</key>
+	<string>POPDidNotGetTheMedal</string>
+	<key>gameOverText</key>
+	<string>gameOverText</string>
+	<key>Request</key>
+	<string>好友请求</string>
+	<key>CTiticon_cn_01</key>
+	<string>CTiticon_cn_01</string>
+	<key>CTiticon_cn_02</key>
+	<string>CTiticon_cn_02</string>
+	<key>CTiticon_cn_03a</key>
+	<string>CTiticon_cn_03a</string>
+	<key>CTiticon_cn_03b</key>
+	<string>CTiticon_cn_03b</string>
+	<key>CTiticon_cn_04</key>
+	<string>CTiticon_cn_04</string>
+	<key>CTiticon_cn_05</key>
+	<string>CTiticon_cn_05</string>
+	<key>CTiticon_cn_06</key>
+	<string>CTiticon_cn_06</string>
+	<key>CTiticon_cn_07</key>
+	<string>CTiticon_cn_07</string>
+	<key>button_buy</key>
+	<string>button_buy</string>
+	<key>button_buyb</key>
+	<string>button_buyb</string>
+	<key>POPDeterminea</key>
+	<string>POPDeterminea</string>
+	<key>POPDetermineb</key>
+	<string>POPDetermineb</string>
+	<key>POPCancela</key>
+	<string>POPCancela</string>
+	<key>POPCancelb</key>
+	<string>POPCancelb</string>
+	<key>POPAgreeButtona</key>
+	<string>POPAgreeButtona</string>
+	<key>POPAgreeButtonb</key>
+	<string>POPAgreeButtonb</string>
+	<key>POPRefuseButtona</key>
+	<string>POPRefuseButtona</string>
+	<key>POPRefuseButtonb</key>
+	<string>POPRefuseButtonb</string>
+	<key>POPBlacklistButtona - 2</key>
+	<string>POPBlacklistButtona</string>
+	<key>POPBlacklistButtonb - 2</key>
+	<string>POPBlacklistButtonb</string>
+	<key>save</key>
+	<string>save</string>
+	<key>saveb</key>
+	<string>saveb</string>
+	<key>btn_5</key>
+	<string>btn_5</string>
+	<key>btn_5b</key>
+	<string>btn_5b</string>
+	<key>button_buy - 2</key>
+	<string>button_buy</string>
+	<key>button_buyb - 2</key>
+	<string>button_buyb</string>
+	<key>用户邮箱不能为空</key>
+	<string>用户邮箱不能为空</string>
+	<key>昵称不能为空</key>
+	<string>昵称不能为空</string>
+	<key>密码不能为空</key>
+	<string>密码不能为空</string>
+	<key>城市不能为空</key>
+	<string>城市不能为空</string>
+	<key>邮箱不能为空</key>
+	<string>邮箱不能为空</string>
+	<key>两次密码不同</key>
+	<string>两次密码不同</string>
+	<key>邮箱格式不正确</key>
+	<string>邮箱格式不正确</string>
+	<key>dream_brokera_cn01</key>
+	<string>dream_brokera_cn01</string>
+	<key>dream_brokera_cn02</key>
+	<string>dream_brokera_cn02</string>
+	<key>name:</key>
+	<string>昵称：</string>
+	<key>location:</key>
+	<string>地区：</string>
+	<key>dream_broker_moreCN</key>
+	<string>dream_broker_moreCN</string>
+	<key>Finished:</key>
+	<string>已完成：</string>
+	<key>moss_english</key>
+	<string>moss_chinese</string>
+	<key>share</key>
+	<string>share</string>
+	<key>shareb</key>
+	<string>shareb</string>
+	<key>成功购买</key>
+	<string>成功购买</string>
+	<key>购买失败</key>
+	<string>购买失败</string>
+	<key>buttonShareCNa</key>
+	<string>buttonShareCNa</string>
+	<key>buttonShareCNb</key>
+	<string>buttonShareCNb</string>
+	<key>save_CNa</key>
+	<string>save_CNa</string>
+	<key>save_CNb</key>
+	<string>save_CNb</string>
+	<key>networkConnectErrorCN</key>
+	<string>networkConnectErrorCN</string>
+	<key>loginbtnCNa</key>
+	<string>loginbtnCNa</string>
+	<key>loginbtnCNb</key>
+	<string>loginbtnCNb</string>
+	<key>callpicCN</key>
+	<string>callpicCN</string>
+	<key>Resting</key>
+	<string>休息中</string>
+	<key>upCN1</key>
+	<string>upCN1</string>
+	<key>upCN2</key>
+	<string>upCN2</string>
+	<key>downCN1</key>
+	<string>downCN1</string>
+	<key>downCN2</key>
+	<string>downCN2</string>
+	<key>用户名或密码不能为空！</key>
+	<string>用户名或密码不能为空！</string>
+	<key>找回密码</key>
+	<string>找回密码</string>
+	<key>服务条款</key>
+	<string>服务条款</string>
+	<key>正在注册....</key>
+	<string>正在注册....</string>
+	<key>请稍后..</key>
+	<string>请稍后..</string>
+	<key>del_cn01</key>
+	<string>del_cn01</string>
+	<key>del_cn02</key>
+	<string>del_cn02</string>
+	<key>请输入您的邮箱</key>
+	<string>请输入您的邮箱</string>
+	<key>休息中</key>
+	<string>休息中</string>
+	<key>起床中</key>
+	<string>起床中</string>
+	<key>已起床</key>
+	<string>已起床</string>
+	<key>网络连接失败</key>
+	<string>网络连接失败</string>
+	<key>该设备不支持通讯录添加好友</key>
+	<string>该设备不支持通讯录添加好友</string>
+	<key>设备不支持发送短信</key>
+	<string>设备不支持发送短信</string>
+	<key>信息已发送</key>
+	<string>信息已发送</string>
+	<key>ID 不能为中文</key>
+	<string>ID 不能为中文</string>
+	<key>必须同意服务条款才能注册使用</key>
+	<string>必须同意服务条款才能注册使用</string>
+	<key>正在加载数据</key>
+	<string>正在加载数据</string>
+	<key>该用户已存在，请返回直接登录或重新注册其他账号</key>
+	<string>该用户已存在，请返回直接登录或重新注册其他账号</string>
+	<key>邮箱更改失败</key>
+	<string>邮箱更改失败</string>
+	<key>已经是你的好友</key>
+	<string>已经是你的好友</string>
+	<key>此用户不存在</key>
+	<string>此用户不存在</string>
+	<key>修改密码失败</key>
+	<string>修改密码失败</string>
+	<key>用户名或密码不正确</key>
+	<string>用户名或密码不正确</string>
+	<key>添加好友时出现错误</key>
+	<string>添加好友时出现错误</string>
+	<key>你的金币数量不足</key>
+	<string>你的金币数量不足</string>
+	<key>该设备不支持拍照功能</key>
+	<string>该设备不支持拍照功能</string>
+	<key>成功修改密码</key>
+	<string>成功修改密码</string>
+	<key>请使用新密码重新登录</key>
+	<string>请使用新密码重新登录</string>
+	<key>手机号码格式不正确</key>
+	<string>手机号码格式不正确</string>
+	<key>头像上传失败</key>
+	<string>头像上传失败</string>
+	<key>手机号绑定失败</key>
+	<string>手机号绑定失败</string>
+	<key>上传邮箱已经是你绑定的邮箱</key>
+	<string>上传邮箱已经是你绑定的邮箱</string>
+	<key>该邮箱已经被占用</key>
+	<string>该邮箱已经被占用</string>
+	<key>你的网线好像被剪断了</key>
+	<string>你的网线好像被剪断了</string>
+	<key>昵称长度不能少于2位</key>
+	<string>昵称长度不能少于2位</string>
+	<key>信息修改失败</key>
+	<string>信息修改失败</string>
+	<key>followChinese</key>
+	<string>followChinese</string>
+	<key>该用户已被你加入黑名单，若想添加好友，请先从黑名单中移除</key>
+	<string>该用户已被你加入黑名单，若想添加好友，请先从黑名单中移除</string>
+	<key>购买道具失败</key>
+	<string>购买道具失败</string>
+	<key>好友已进入休息状态</key>
+	<string>好友已进入休息状态</string>
+	<key>此用户已经是你的好友</key>
+	<string>此用户已经是你的好友</string>
+</dict>
+</plist>
